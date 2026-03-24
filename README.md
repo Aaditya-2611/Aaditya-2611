@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi I am Aaditya.....
+
 I’m currently working on<br>→ Building beginner friendly projects in Genrative AI using python<br><br>I’m looking to collaborate on<br>→ Open-source and Meaningful projects in AI, Web Development, and Software Development<br><br>I’m looking for help with<br>→ Improving my Data Structures & Algorithms and real-world project experience<br><br>I’m currently learning<br>→  Artificial Intelligence, SQL, Advanced Java, and Full Stack Development<br><br>Ask me about<br>→ Basics of programming, Java, Python, C, C++, HTML, CSS, JavaScript, SQL basics<br><br>Fun fact<br>→ I enjoy solving coding problems and playing tabla and flute in my free time
 
 
